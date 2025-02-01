@@ -15,7 +15,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gurjalkarprahlad&limit=5&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=gurjalkarprahlad&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
