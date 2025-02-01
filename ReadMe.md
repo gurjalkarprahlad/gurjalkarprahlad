@@ -12,8 +12,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gurjalkarprahlad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gurjalkarprahlad&limit=5&theme=dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
